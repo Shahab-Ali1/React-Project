@@ -87,7 +87,7 @@ function HomeComponent() {
     }, [])
     return (
         <>
-            <h1>Home Form</h1>
+            <h1>Homee Form</h1>
             <div className="row">
                 <div className="col-lg-6">
                     <div className="row mt-3">
