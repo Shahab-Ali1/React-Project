@@ -1,0 +1,16 @@
+.StBlueButton{
+  background-color: #1f6f92 !important  ;
+   color:white !important; 
+   height: 32px !important; 
+   font-family: Roboto !important;
+   padding-top: 6px !important;  
+}
+.close-btn{
+  border: 1px solid lightgray !important;
+  background-color: #e7e9ef !important;
+  color: #4b4b4b !important;
+  font-size: 12px !important;
+  padding-top: 6px !important;
+  height: 32px !important;
+  font-family: Roboto !important;
+  }
